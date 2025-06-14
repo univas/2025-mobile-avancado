@@ -1,0 +1,7 @@
+1. Criar uma classe Executor com os seguintes métodos
+    a) comparar(a,b) // Deve retornar 1 caso o valor a seja maior que b e -1 caso a seja menor que b
+    b) ehPrimo(a) // deve retornar true caso a seja primo e false caso não seja
+    c) concatenar(txt1,txt2) // deve retornar uma string com os dois textos separados por -
+    d) gerarValores(n) // deve retornar um array com n posicoes de numeros aleatorios
+
+2. Criar o teste automatizado para os métodos acima
